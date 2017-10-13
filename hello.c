@@ -8,6 +8,7 @@ int main(int argc, char **argv)
      printf("hey!!!!!!!!!\n", );
      printf("good morning\n", );
      printf("I'm hungry\n", );
+     printf("aiueo\n", );
 
      return 0;
 }
