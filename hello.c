@@ -10,6 +10,7 @@ int main(int argc, char **argv)
      printf("I'm hungry\n", );
      printf("aiueo\n", );
      printf("aiiiiiiii\n", );
+     printf("wwwwwwwwwwwwwww\n", );
 
      return 0;
 }
